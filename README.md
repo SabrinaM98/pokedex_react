@@ -10,7 +10,7 @@
     `npm --version`
     
   * Clone this repository
-    `git clone https://github.com/saraselis/ImperiumRPG`
+    `git clone https://github.com/SabrinaM98/pokedex_react`
     
   * Go to the right file
     `cd pokedex`
